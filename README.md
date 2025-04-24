@@ -1,2 +1,2 @@
 # bank-account-management-system
-define all aspect of bank account such as accout creation , withdraw,deposit and check balance.
+define all aspect of bank account such as account creation , withdraw,deposit and check balance.
